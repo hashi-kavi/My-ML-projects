@@ -1,5 +1,5 @@
 # My-ML-projects
-#1. Medical Cost Prediction
+# 1.Medical Cost Prediction
 
 This project implements a machine learning model to predict medical insurance costs based on personal characteristics and health indicators.
 
